@@ -1,0 +1,60 @@
+body {
+    background-color:rgb(202, 180, 206);
+    font-family:'Roboto', sans-serif;
+}
+
+.div1 {
+    height: 400px;
+    width: 340px;
+    background-color: white;
+}
+
+.sub {
+    font-size: 12px;
+    position: relative;
+    bottom: 11px;
+    left: 30px;
+}
+
+
+.i1 {
+    position: relative;
+    left: 7px;
+    top: 11px;
+    font-size: 20px;
+}
+
+.i2 {
+    position: relative;
+    left: 320px;
+    bottom: 37px;
+    font-size: 20px;
+}
+
+p {
+  font-size: 11px;
+    position: relative;
+    left:  8px;
+    bottom: 120px;
+}
+
+.i3 {
+    position: relative;
+    bottom: 13px;
+    left: 7px;
+    
+}
+
+.i4 {
+    position: relative;
+    left: 315px;
+    bottom: 31px;
+}
+
+img {
+    position: relative;
+    bottom: 20px;
+}
+
+
+
